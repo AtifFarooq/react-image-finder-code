@@ -8,3 +8,5 @@ The allows the user to search for what it is they want to see, and the number of
 Once the images have returned, the user can click on the 'zoom' icon on each picture, which will open a dialogue box with a zoomed in picture, and an option to close to the dialogue box:
 
 ![alt text](https://raw.githubusercontent.com/AtifFarooq/react-image-finder/master/dialogue_box_close.jpg)
+
+This app is based on Brad Traversy's example. Done for educational/learning purposes.
